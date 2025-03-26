@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    font-family: cursive;
+    font-size: 30px;
+    color: #333;
+    text-align: center;
+}
+h3{
+    font-size: 22px;
+    color: #ff474c;
+    font-family: cursive;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    color: #333;
+    font-family: cursive;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+.services{
+    margin: 20px;
+    padding-left: 20px;
+}
+#car-servicing{
+    position: absolute;
+    padding-left: 60px;
+}
